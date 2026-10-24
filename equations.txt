@@ -1,0 +1,6 @@
+﻿"Pin Shaft Diameter"= "D1@Sketch2"
+"Base Lenght"= "D1@Boss-Extrude3"
+"D1@Sketch1"= "Pin Shaft Diameter" + 0.375'The pin head diameter is .375 inches bigger than the pin shaft diameter
+"D1@Boss-Extrude1"= "Pin Shaft Diameter" / 1.5'The pin thickness is proportional to the pin shaft diameter.
+"D1@Boss-Extrude2"= "Base Lenght"'The pin shaft length is the same as the length of the base boss extrude
+"D1@Sketch4"= "Pin Shaft Diameter" + 0.0005'The diameter of the base boss extrude requires clearance.
